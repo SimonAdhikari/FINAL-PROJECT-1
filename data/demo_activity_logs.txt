@@ -1,0 +1,30 @@
+[2026-09-13 22:16:40] [Thread: MainThread] [User: ADM-001] [Action: REGISTER_USER] [Status: SUCCESS] - Created Administrator: Dr. Sarah Connor
+[2026-09-13 22:16:40] [Thread: MainThread] [User: ANA-101] [Action: REGISTER_USER] [Status: SUCCESS] - Created Security Analyst: Alex Mercer
+[2026-09-13 22:16:40] [Thread: MainThread] [User: ANA-102] [Action: REGISTER_USER] [Status: SUCCESS] - Created Security Analyst: Elena Rostova
+[2026-09-13 22:16:40] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_INVALID_EMAIL
+[2026-09-13 22:16:40] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_WEAK_PASSWORD
+[2026-09-13 22:16:40] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_INVALID_USER_ID
+[2026-09-13 22:16:41] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: FAILURE] - Failed attempt 1
+[2026-09-13 22:16:41] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: FAILURE] - Failed attempt 2
+[2026-09-13 22:16:41] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: LOCKED] - Account locked after attempt 3
+[2026-09-13 22:16:41] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: SUCCESS] - Authenticated successfully after admin unlock.
+[2026-09-13 22:16:54] [Thread: MainThread] [User: ADM-001] [Action: REGISTER_USER] [Status: SUCCESS] - Created Administrator: Dr. Sarah Connor
+[2026-09-13 22:16:54] [Thread: MainThread] [User: ANA-101] [Action: REGISTER_USER] [Status: SUCCESS] - Created Security Analyst: Alex Mercer
+[2026-09-13 22:16:54] [Thread: MainThread] [User: ANA-102] [Action: REGISTER_USER] [Status: SUCCESS] - Created Security Analyst: Elena Rostova
+[2026-09-13 22:16:54] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_INVALID_EMAIL
+[2026-09-13 22:16:54] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_WEAK_PASSWORD
+[2026-09-13 22:16:54] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_INVALID_USER_ID
+[2026-09-13 22:16:54] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: FAILURE] - Failed attempt 1
+[2026-09-13 22:16:54] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: FAILURE] - Failed attempt 2
+[2026-09-13 22:16:55] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: LOCKED] - Account locked after attempt 3
+[2026-09-13 22:16:55] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: SUCCESS] - Authenticated successfully after admin unlock.
+[2026-09-14 14:39:20] [Thread: MainThread] [User: ADM-001] [Action: REGISTER_USER] [Status: SUCCESS] - Created Administrator: Dr. Sarah Connor
+[2026-09-14 14:39:20] [Thread: MainThread] [User: ANA-101] [Action: REGISTER_USER] [Status: SUCCESS] - Created Security Analyst: Alex Mercer
+[2026-09-14 14:39:20] [Thread: MainThread] [User: ANA-102] [Action: REGISTER_USER] [Status: SUCCESS] - Created Security Analyst: Elena Rostova
+[2026-09-14 14:39:20] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_INVALID_EMAIL
+[2026-09-14 14:39:20] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_WEAK_PASSWORD
+[2026-09-14 14:39:20] [Thread: MainThread] [User: SYSTEM] [Action: VALIDATION_TEST] [Status: FAILURE] - Caught expected exception: ERR_INVALID_USER_ID
+[2026-09-14 14:39:20] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: FAILURE] - Failed attempt 1
+[2026-09-14 14:39:20] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: FAILURE] - Failed attempt 2
+[2026-09-14 14:39:21] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: LOCKED] - Account locked after attempt 3
+[2026-09-14 14:39:21] [Thread: MainThread] [User: ANA-999] [Action: LOGIN_ATTEMPT] [Status: SUCCESS] - Authenticated successfully after admin unlock.

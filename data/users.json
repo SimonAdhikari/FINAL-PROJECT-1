@@ -1,0 +1,59 @@
+[
+    {
+        "class": "Administrator",
+        "user_id": "ADM-001",
+        "name": "Dr. Sarah Connor",
+        "email": "s.connor@cyberinstitute.edu",
+        "role": "Administrator",
+        "password_hash": "e97b0d222dbc61eea450252c49b45cb034bc30af7ee496946a5d894fa3ac1f27",
+        "salt": "adf7cf9a75f169b298ac61e37d92fb8d",
+        "is_active": true,
+        "is_locked": false,
+        "failed_login_attempts": 0,
+        "created_at": "2026-09-14T14:39:20.745260",
+        "last_login": null,
+        "admin_level": "SUPER_ADMIN",
+        "managed_departments": [
+            "Threat Intel",
+            "System Ops",
+            "Research"
+        ]
+    },
+    {
+        "class": "SecurityAnalyst",
+        "user_id": "ANA-101",
+        "name": "Alex Mercer",
+        "email": "a.mercer@cyberinstitute.edu",
+        "role": "Security Analyst",
+        "password_hash": "437dd57af7f28f47342286dbd78949bc3c07755969d78fef2732bf3ce912663a",
+        "salt": "45baa3d71324bc74cea4fa9e0f26d728",
+        "is_active": true,
+        "is_locked": false,
+        "failed_login_attempts": 0,
+        "created_at": "2026-09-14T14:39:20.779287",
+        "last_login": null,
+        "clearance_level": "TOP_SECRET",
+        "assigned_incidents": [
+            "INC-9041",
+            "INC-9042"
+        ]
+    },
+    {
+        "class": "SecurityAnalyst",
+        "user_id": "ANA-102",
+        "name": "Elena Rostova",
+        "email": "e.rostova@cyberinstitute.edu",
+        "role": "Security Analyst",
+        "password_hash": "fc68ce2103b4846a7cddfd45cd1045cc115f74796b9d16b671a75e965d7175b5",
+        "salt": "3a082d533bf313c2eb0c9ff6b6848f29",
+        "is_active": true,
+        "is_locked": false,
+        "failed_login_attempts": 0,
+        "created_at": "2026-09-14T14:39:20.817865",
+        "last_login": null,
+        "clearance_level": "SECRET",
+        "assigned_incidents": [
+            "INC-9043"
+        ]
+    }
+]

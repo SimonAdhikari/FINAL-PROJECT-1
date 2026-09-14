@@ -1,0 +1,4 @@
+User ID,Name,Email,Role,Class,Active,Locked,Failed Attempts,Last Login
+ADM-001,Dr. Sarah Connor,s.connor@cyberinstitute.edu,Administrator,Administrator,Yes,No,0,N/A
+ANA-101,Alex Mercer,a.mercer@cyberinstitute.edu,Security Analyst,SecurityAnalyst,Yes,No,0,N/A
+ANA-102,Elena Rostova,e.rostova@cyberinstitute.edu,Security Analyst,SecurityAnalyst,Yes,No,0,N/A
